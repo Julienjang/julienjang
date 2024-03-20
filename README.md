@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 <br/>
 	
-| ![julienjang's GitHub stats](https://github-readme-stats.vercel.app/api?username=julienjang&show_icons=true&title_color=000000&text_color=939393&icon_color=9796f0&hide_border=true&bg_color=00000000) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julienjang&layout=compact&hide_border=true&title_color=000000&text_color=939393&bg_color=00000000)](https://github.com/julienjang/) |
+| ![julienjang's GitHub stats](https://github-readme-stats.vercel.app/api?username=julienjang&show_icons=true&theme=highcontrast) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julienjang&layout=compact&hide_border=true&theme=highcontrast)](https://github.com/julienjang/) |
 | ------------- | ------------- |
