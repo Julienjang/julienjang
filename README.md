@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-![header](https://capsule-render.vercel.app/api?type=waving&text=)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFFF00)
 # <div align=center> Backend Developer </div>
 
 <h4>👩🏻‍💻 Tech Stack</h4>
