@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/aws-333664?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-016bc0?style=for-the-badge&logo=docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+
 
 <br/>
 	
